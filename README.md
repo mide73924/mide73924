@@ -2,10 +2,6 @@
 
 Welcome to my GitHub profile!
 
-### About Me
-
-  💻 C enthusiast
-
 ---
 
 
